@@ -170,7 +170,7 @@ section {
 
 .content__right_design {
     display: flex;
-    align-items: center;
+    transform: translate(15px, 10%);
     background: initial;
     background-size: initial;
 }
